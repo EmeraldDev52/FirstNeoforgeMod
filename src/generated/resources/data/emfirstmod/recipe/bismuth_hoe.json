@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "emfirstmod:bismuth"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " BB",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "emfirstmod:bismuth_hoe"
+  }
+}

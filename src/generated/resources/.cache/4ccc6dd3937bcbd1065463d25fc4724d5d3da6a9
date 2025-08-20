@@ -1,0 +1,10 @@
+// 1.21.1	2025-08-04T23:57:15.7728667	Block States: emfirstmod
+cd6eda74792a6c88d569043b0bd5eb3e203c5148 assets/emfirstmod/blockstates/bismuth_block.json
+9ceef81cbd4a22e41ede8be75a8928e195a2382a assets/emfirstmod/blockstates/bismuth_ore.json
+955f1274d76860aabf1b1eade40c14733a61a650 assets/emfirstmod/blockstates/magic_block.json
+fcfed28919d845492ea67c6def8adb331a9225ba assets/emfirstmod/models/block/bismuth_block.json
+980a1e2b2e79060d83fca4f7490ec660f1aa56ae assets/emfirstmod/models/block/bismuth_ore.json
+b60ba2cda02abe1ff16be92e32efba99dbe7ad70 assets/emfirstmod/models/block/magic_block.json
+068b563204bf0f768a2e5d71c5178ca52dcc99f8 assets/emfirstmod/models/item/bismuth_block.json
+f54df9c85437cead2fce6f7c77fb04765385288a assets/emfirstmod/models/item/bismuth_ore.json
+5ea5666a575bee9b5ad1c451d91f86b3cccfbb9e assets/emfirstmod/models/item/magic_block.json

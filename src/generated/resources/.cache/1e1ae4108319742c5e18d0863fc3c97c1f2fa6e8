@@ -1,0 +1,9 @@
+// 1.21.1	2025-08-12T03:25:45.2710736	Tags for minecraft:item mod id emfirstmod
+b64e8e8f2d58cbee548d5a2926d604a2c2c21c3e data/emfirstmod/tags/item/magic_convertable_items.json
+b3372b58e0ccbf79bf9a1d4f1eb954173ac15659 data/emfirstmod/tags/item/veinmine_enchantable.json
+a19cd779209cc0112035b8f69cce54384c840c12 data/minecraft/tags/item/axes.json
+3f65aba97bb18d4e612ac2c67bbd78de15142a1d data/minecraft/tags/item/enchantable/mining.json
+d7ae4aa925b692b10fb3707ffe9938dc42c8cd7b data/minecraft/tags/item/hoes.json
+c144f109f4918d6bd290cd293940f5e63f40d065 data/minecraft/tags/item/pickaxes.json
+ad9c1821b5d0cf0cfe6ff28d033958d4a3aa4355 data/minecraft/tags/item/shovels.json
+58a81edf675bf55006cf4e2c89b1b59f25686d7b data/minecraft/tags/item/swords.json

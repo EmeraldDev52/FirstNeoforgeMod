@@ -1,0 +1,9 @@
+// 1.21.1	2025-08-12T03:25:45.2720757	Tags for minecraft:block mod id emfirstmod
+bdac15204957fd92fdf71541778e48adb546dde3 data/c/tags/block/ores.json
+517625696f89da7636e3126a405201cc977453f0 data/emfirstmod/tags/block/auto_smeltable.json
+e98465e7e5c1393c4eda354b7029f456f55613b9 data/emfirstmod/tags/block/incorrect_for_bismuth_tool.json
+a249c46329a41538f49a564e1f14338aaf1be5a0 data/emfirstmod/tags/block/needs_bismuth_tool.json
+b147fcff5c0b4d72df1cb7809b063b2562180832 data/emfirstmod/tags/block/veinmine_axe.json
+93d14ee185c5f82dde1d45a686dc2069bb92a169 data/emfirstmod/tags/block/veinmine_pickaxe.json
+1eb901f0e4ada759d1a1c543e8fd68ef8714c48e data/minecraft/tags/block/mineable/pickaxe.json
+a0cccc904b253657d1e01002c1c1c7591f89ec9a data/minecraft/tags/block/needs_iron_tool.json

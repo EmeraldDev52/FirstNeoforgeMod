@@ -1,0 +1,32 @@
+{
+  "item.emfirstmod.bismuth": "Bismuth",
+  "item.emfirstmod.raw_bismuth": "Raw Bismuth",
+  "item.emfirstmod.chisel": "Chisel",
+  "item.emfirstmod.radish": "Radish",
+  "item.emfirstmod.frostfire_ice": "Frostfire Ice",
+  "item.emfirstmod.starlight_ashes": "Starlight Ashes",
+
+  "item.emfirstmod.bismuth_sword": "Bismuth Sword",
+  "item.emfirstmod.bismuth_pickaxe": "Bismuth Pickaxe",
+  "item.emfirstmod.bismuth_shovel": "Bismuth Shovel",
+  "item.emfirstmod.bismuth_axe": "Bismuth Axe",
+  "item.emfirstmod.bismuth_hoe": "Bismuth Hoe",
+  "item.emfirstmod.bismuth_hammer": "Bismuth Hammer",
+
+  "block.emfirstmod.bismuth_block": "Block Of Bismuth",
+  "block.emfirstmod.bismuth_ore": "Bismuth Ore",
+  "block.emfirstmod.magic_block": "Magic Block",
+
+  "creativetab.emfirstmod.bismuth_items": "Bismuth Items",
+  "creativetab.emfirstmod.bismuth_blocks": "Bismuth Blocks",
+  "creativetab.emfirstmod.em_tool_tab": "Bismuth Tools",
+  "creativetab.emfirstmod.em_foodnfuel_tab": "Food n' Fuel",
+
+  "tooltip.emfirstmod.magic_block.tooltip": "This block is very §umagical§r",
+  "tooltip.emfirstmod.chisel.shift_down": "This item can chisel blocks into their brick version",
+  "tooltip.emfirstmod.chisel": "hold [§8Shift§r] for summary",
+
+  "enchantment.emfirstmod.lightning_striker": "Lightning Striker",
+  "enchantment.emfirstmod.vein_miner": "Vein Miner",
+  "enchantment.emfirstmod.auto_smelt": "Auto Smelt"
+}

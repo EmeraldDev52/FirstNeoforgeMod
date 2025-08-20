@@ -1,4 +1,4 @@
-package com.emeraldpig.firstmod;
+package com.emeraldpig.emfirstmod;
 
 import java.util.List;
 
